@@ -23,7 +23,7 @@ config:
   # Explicitly set the number of rows
   # or use `auto` to take the current
   # number of rows of your shell
-  rows: 56
+  rows: 60
   
   # Amount of times to repeat GIF
   # If value is -1, play once
@@ -112,51 +112,95 @@ config:
 # Records, feel free to edit them
 records:
   - delay: 1000
-    content: "\e[01;32mHao-Hsiang,Wu\e[00m$ "
+    content: "\e[01;32mHao-Hsiang,Wu@github\e[00m$ "
   - delay: 100
-    content: H
+    content: p
   - delay: 100
-    content: e
+    content: y
   - delay: 100
-    content: l
+    content: t
   - delay: 100
-    content: l
+    content: h
   - delay: 100
     content: o
   - delay: 100
-    content: "!"
+    content: n
   - delay: 100
     content: " "
   - delay: 100
-    content: I
+    content: "-"
+  - delay: 100
+    content: c
   - delay: 100
     content: " "
   - delay: 100
-    content: a
-  - delay: 100
-    content: m
-  - delay: 100
-    content: " "
-  - delay: 100
-    content: R
-  - delay: 100
-    content: a
-  - delay: 100
-    content: y
-  - delay: 100
-    content: "."
-  - delay: 100
-    content: "\r\n"
-  - delay: 1000
-    content: "\e[01;32mHao-Hsiang,Wu\e[00m$ "
+    content: "\""
   - delay: 100
     content: M
   - delay: 100
+    content: e
+  - delay: 100
+    content: "."
+  - delay: 100
+    content: g
+  - delay: 100
+    content: r
+  - delay: 100
+    content: e
+  - delay: 100
+    content: e
+  - delay: 100
+    content: t
+  - delay: 100
+    content: i
+  - delay: 100
+    content: n
+  - delay: 100
+    content: g
+  - delay: 100
+    content: "("
+  - delay: 100
+    content: ")"
+  - delay: 100
+    content: "\""
+  - delay: 100
+    content: "\r\n"
+  - delay: 1000
+    content: "Hello, I am Wu Hao-Hsiang."
+  - delay: 100
+    content: "\r\n"
+  - delay: 1000
+    content: "\e[01;32mHao-Hsiang,Wu@github\e[00m$ "
+  - delay: 100
+    content: p
+  - delay: 100
     content: y
+  - delay: 100
+    content: t
+  - delay: 100
+    content: h
+  - delay: 100
+    content: o
+  - delay: 100
+    content: n
   - delay: 100
     content: " "
   - delay: 100
-    content: I
+    content: "-"
+  - delay: 100
+    content: c
+  - delay: 100
+    content: " "
+  - delay: 100
+    content: "\""
+  - delay: 100
+    content: M
+  - delay: 100
+    content: e
+  - delay: 100
+    content: "."
+  - delay: 100
+    content: i
   - delay: 100
     content: n
   - delay: 100
@@ -164,29 +208,57 @@ records:
   - delay: 100
     content: o
   - delay: 100
+    content: "("
+  - delay: 100
+    content: ")"
+  - delay: 100
+    content: "\""
+  - delay: 100
     content: "\r\n"
   - delay: 1000
     content: "I am a data scientist."
   - delay: 100
     content: "\r\n"
-  - delay: 100
+  - delay: 1000
     content: "I am interested in data analysis, machine learning and deep learning."
   - delay: 100
     content: "\r\n"
-  - delay: 100
+  - delay: 1000
     content: "Dedicated to become a full-stack data scientist."
   - delay: 100
     content: "\r\n"
   - delay: 1000
-    content: "\e[01;32mHao-Hsiang,Wu\e[00m$ "
+    content: "\e[01;32mHao-Hsiang,Wu@github\e[00m$ "
   - delay: 100
-    content: M
+    content: p
   - delay: 100
     content: y
   - delay: 100
+    content: t
+  - delay: 100
+    content: h
+  - delay: 100
+    content: o
+  - delay: 100
+    content: n
+  - delay: 100
     content: " "
   - delay: 100
-    content: S
+    content: "-"
+  - delay: 100
+    content: c
+  - delay: 100
+    content: " "
+  - delay: 100
+    content: "\""
+  - delay: 100
+    content: M
+  - delay: 100
+    content: e
+  - delay: 100
+    content: "."
+  - delay: 100
+    content: s
   - delay: 100
     content: k
   - delay: 100
@@ -197,6 +269,12 @@ records:
     content: l
   - delay: 100
     content: s
+  - delay: 100
+    content: "("
+  - delay: 100
+    content: ")"
+  - delay: 100
+    content: "\""
   - delay: 100
     content: "\r\n"
   - delay: 1000
