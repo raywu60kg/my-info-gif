@@ -23,7 +23,7 @@ config:
   # Explicitly set the number of rows
   # or use `auto` to take the current
   # number of rows of your shell
-  rows: 60
+  rows: 300
   
   # Amount of times to repeat GIF
   # If value is -1, play once
@@ -79,7 +79,7 @@ config:
   fontFamily: "Monaco, Lucida Console, Ubuntu Mono, Monospace"
   
   # The size of the font
-  fontSize: 48
+  fontSize: 40
   
   # The height of lines
   lineHeight: 1
